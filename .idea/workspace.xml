@@ -5,40 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fae5cb19-33df-486b-9034-7a2256b0a102" name="Changes" comment="Add files via upload">
-      <change beforePath="$PROJECT_DIR$/web/assets/AssetManifest.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/AssetManifest.bin.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/FontManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/NOTICES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/record_web/assets/js/record.fixwebmduration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/packages/record_web/assets/js/record.worklet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/shaders/ink_sparkle.frag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/shaders/stretch_effect.frag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/canvaskit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/canvaskit.js.symbols" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/canvaskit.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/chromium/canvaskit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/chromium/canvaskit.js.symbols" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/chromium/canvaskit.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/skwasm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/skwasm.js.symbols" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/skwasm.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/skwasm_heavy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/skwasm_heavy.js.symbols" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/canvaskit/skwasm_heavy.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/flutter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/flutter_bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/flutter_service_worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/main.dart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/version.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,19 +16,34 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mohamed Rashad &lt;42122633+mohamedrashad99@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="v2" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/Aca/AndroidStudioProjects/chat_test"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aca/AndroidStudioProjects/chat_test&quot;
   }
-}]]></component>
+}</component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="v3" />
+    </force-push-targets>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aca\AndroidStudioProjects\chat_test" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task id="LOCAL؜-٠٠٠٠١" summary="Add files via upload">
       <option name="closed" value="true" />
@@ -71,7 +53,15 @@
       <option name="project" value="LOCAL؜" />
       <updated>1776851934444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL؜-٠٠٠٠٢" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1776852365250</created>
+      <option name="number" value="٠٠٠٠٢" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٢" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1776852365250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
